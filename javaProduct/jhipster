@@ -1,0 +1,6 @@
+安装 java,node.git
+npm install -g generator-jhipster
+npm install -g yo
+
+"cmd 运行" jhipster 
+jhipster import-jdl test.jdl
